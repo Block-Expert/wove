@@ -31,7 +31,7 @@ export default function Hero() {
       </svg>
       <div className="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8">
-          <h3 className="font-semibold text-lg">Wove</h3>
+          <h3 className="font-semibold text-lg">Fru.io</h3>
           <div className="mt-24 sm:mt-32 lg:mt-16">
             <a
               href="https://fruition.net"
