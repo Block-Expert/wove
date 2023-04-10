@@ -34,7 +34,7 @@ export default function Hero() {
           <h3 className="font-semibold text-lg">Wove</h3>
           <div className="mt-24 sm:mt-32 lg:mt-16">
             <a
-              href="https://github.com/zckly/wove"
+              href="https://fruition.net"
               target={"_blank"}
               rel="noreferrer"
               className="inline-flex space-x-6"
@@ -55,16 +55,15 @@ export default function Hero() {
             Build and schedule AI-powered workflows
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Wove is a visual workflow builder that allows you to build chains of
-            Large Language Models (LLMs) and schedule them to run on a schedule
+            Fru.io is a visual workflow builder that allows you to build chains of
+            Large Language Models ("LLMs") and schedule them to run on a schedule
             or on-demand.
           </p>
           <div className="mt-10 flex items-center gap-x-6">
             <Link
               href="/app"
               className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-            >
-              Get started
+            >              Get started
             </Link>
           </div>
         </div>
